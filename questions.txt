@@ -1,0 +1,71 @@
+Average number of products every order. The speed at which products are shipped every hour basically the efficiency of products shipped every hour
+
+Late deliveries wrt to shipping mode and cancellation reasons
+
+location which orders a lot of goods and the speed of good delivered - We can open a branch there to speed up delivery
+
+Sales lost due to cancellation
+
+Types of products which have highest cancellation rates wrt to shipping modes- optimizing shipping modes for specific product categories or improving delivery times to certain regions.
+
+High ticket customers
+
+Shipping time wrt to regions 
+
+Total real sale per customer . Calculating benefits
+
+Finding which shipping mode OF which product is the most profitable also could include showing lower late deliveries and cancellations. We can then announce incentives to order more via that route. 
+
+Could stock of a product affect late deliveries ?
+COuld stock of a product affect sales and profit
+COuld late deliveries affect sales and profit
+
+
+
+===============================================================================
+
+
+
+What is the average number of products per order, and how does it vary by region?
+This question could reveal the average basket size of customers in different regions, allowing the retailer to adjust their pricing, promotions, or product offerings accordingly. - Done
+
+What is the percentage of late deliveries, and does it vary by shipping mode or product category?
+This question could help the retailer identify areas of improvement in their logistics and shipping operations, such as optimizing shipping modes for specific product categories or improving delivery times to certain regions. - Done
+
+What is the average number of days between scheduled delivery and actual delivery, and how does this vary across different shipping modes?
+This could help identify if certain shipping modes are more reliable than others and inform the retailer's logistics and delivery strategies. - Done
+
+How does the total sales per customer vary across different regions of the world and customer types?
+This could help identify which regions and customer types are driving the most sales for the retailer and inform their marketing and sales strategies.
+
+What is the average shipping time, and how does it vary by shipping mode and destination region?
+This question could help the retailer optimize their logistics and shipping operations by identifying which shipping modes and regions have longer shipping times and finding ways to improve delivery times.
+
+What is the average earnings per order placed, and how does this vary across different product categories and customer types?
+This could help identify which product categories and customer types are more profitable for the retailer and inform their pricing and discount strategies.
+
+How does the order status of an item impact the likelihood of a customer making a repeat purchase?
+This could help identify which order statuses are associated with lower customer retention rates, and may indicate areas where the retailer could improve their supply chain or customer service operations.
+
+What is the relationship between product availability in stock and late delivery rates?
+This can help understand if lower product availability in stock leads to higher late delivery rates.
+
+What is the impact of order status on customer lifetime value?
+This can help understand how different order statuses (e.g., canceled, suspected fraud) affect customer lifetime value.
+
+How does customer type (Consumer, Corporate, Home Office) affect order value and shipping time?
+This can help understand if different customer types have different order values or shipping times.
+
+What is the relationship between order status and product availability in stock?
+This can help understand how different order statuses (e.g., canceled, suspected fraud) affect product availability
+
+
+Order Cycle Time: This KPI measures the average time it takes from when an order is placed until it is delivered to the customer. You could calculate this KPI using the Date on which the order is made variable and the Date of delivery variable.
+
+Perfect Order Rate: This KPI measures the percentage of orders that are delivered on time, complete, and without damage. You could calculate this KPI using the Order Status variable and the Late Delivery variable.
+
+Inventory Turnover Rate: This KPI measures how often a company sells and replaces its stock of goods. To calculate this KPI, you would need additional data such as inventory levels or cost of goods sold.
+
+Stockout Rate: This KPI measures the percentage of time that a product is out of stock. To calculate this KPI, you would need additional data such as inventory levels or stock on hand.
+
+Gross Margin Return on Investment (GMROI): This KPI measures how much profit a company makes for every dollar invested in inventory. To calculate this KPI, you would need additional data such as cost of goods sold or gross profit.

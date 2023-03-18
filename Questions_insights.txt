@@ -1,0 +1,32 @@
+What is the average number of products per order, and how does it vary by region?
+-This question could reveal the average basket size of customers in different regions, allowing the retailer to adjust their pricing, promotions, or product offerings accordingly.
+
+What is the percentage of late deliveries, and does it vary by shipping mode or product category?
+-This question could help the retailer identify areas of improvement in their logistics and shipping operations, such as optimizing shipping modes for specific product categories or improving delivery times to certain regions.
+
+What is the average number of days between scheduled delivery and actual delivery, and how does this vary across different shipping modes?
+-This could help identify if certain shipping modes are more reliable than others and inform the retailer's logistics and delivery strategies.
+
+How does the total sales per customer vary across different regions of the world and customer types?
+-This could help identify which regions and customer types are driving the most sales for the retailer and inform their marketing and sales strategies.
+
+What is the average shipping time, and how does it vary by shipping mode and destination region?
+-This question could help the retailer optimize their logistics and shipping operations by identifying which shipping modes and regions have longer shipping times and finding ways to improve delivery times.
+
+What is the average earnings per order placed, and how does this vary across different product categories and customer types?
+-This could help identify which product categories and customer types are more profitable for the retailer and inform their pricing and discount strategies.
+
+How does the order status of an item impact the likelihood of a customer making a repeat purchase?
+-This could help identify which order statuses are associated with lower customer retention rates, and may indicate areas where the retailer could improve their supply chain or customer service operations.
+
+What is the relationship between product availability in stock and late delivery rates?
+-This can help understand if lower product availability in stock leads to higher late delivery rates.
+
+What is the impact of order status on customer lifetime value?
+-This can help understand how different order statuses (e.g., canceled, suspected fraud) affect customer lifetime value.
+
+How does customer type (Consumer, Corporate, Home Office) affect order value and shipping time?
+-This can help understand if different customer types have different order values or shipping times.
+
+What is the relationship between order status and product availability in stock?
+-This can help understand how different order statuses (e.g., canceled, suspected fraud) affect product availability
