@@ -4,6 +4,11 @@ What is the average number of products per order, and how does it vary by region
 What is the percentage of late deliveries, and does it vary by shipping mode or product category?
 -This question could help the retailer identify areas of improvement in their logistics and shipping operations, such as optimizing shipping modes for specific product categories or improving delivery times to certain regions.
 
+Answer - What I can see is that standard class has a higher chances of getting delivered late.
+weather conditions, traffic patterns, and carrier performance can be further analysed to understand late deliveries.	
+I would also need to find out which country or region has higher late deliveries and which mode. On this we can suggest a new mode of delivery if we see that other mode has lower late delievry rate. We can also investigate the shipping lines for that region too see why we are delivering it Late.
+
+
 What is the average number of days between scheduled delivery and actual delivery, and how does this vary across different shipping modes?
 -This could help identify if certain shipping modes are more reliable than others and inform the retailer's logistics and delivery strategies.
 
